@@ -11,7 +11,7 @@
 	<groupId>com.deploy2</groupId>
 	<artifactId>deploy2</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.5</version>
+	<version>0.0.6</version>
 	<name>deploy2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
